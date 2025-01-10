@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: a58b24e35706e7e4d9590de7120d15a9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface45_menino_polySurface1_polySurface1Mat
+    second: {fileID: 2100000, guid: bb722374010ef0e459bfb611c185353a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface46_menino_polySurface1_polySurface2Mat
+    second: {fileID: 2100000, guid: 3645a8992de80404eaff4c3a929d207f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface47_menino_polySurface1_polySurface3Mat
+    second: {fileID: 2100000, guid: 530c0624e0644ca4ebba5c0b4ec13ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface48_menino_polySurface1_polySurface4Mat
+    second: {fileID: 2100000, guid: 491b2712b91f5e94d848451608c83b48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface49_polySurface5_menino_polySurface1Mat
+    second: {fileID: 2100000, guid: 737c6c2157789f34eb993a89997a1021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface50_menino_polySurface1_polySurface6Mat
+    second: {fileID: 2100000, guid: f4e69cf3689834f4e80853b7e0b44658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface51_menino_polySurface1_polySurface7Mat
+    second: {fileID: 2100000, guid: e7b7e0bf908cc944b80743b7717f778b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface52_menino_polySurface1_polySurface8Mat
+    second: {fileID: 2100000, guid: c5d87c38c7eaeda45bc170256182d214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface53_menino_polySurface1_polySurface9Mat
+    second: {fileID: 2100000, guid: 2b2d06df0c68fa94a860e3f19192b0b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface54_menino_polySurface1_polySurface10Mat
+    second: {fileID: 2100000, guid: 6b085ca3814b7bf47ac0e48b56dc7e0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface55_menino_polySurface1_polySurface11Mat
+    second: {fileID: 2100000, guid: 56b9fd4b35fd8124b902bbf13152b1b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface56_menino_polySurface1_polySurface12Mat
+    second: {fileID: 2100000, guid: 68dd02e2c674d47498d23cd40cd3779d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface57_menino_polySurface1_polySurface13Mat
+    second: {fileID: 2100000, guid: aec6e9ac15834824784aac77c735e8f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface58_menino_polySurface1_polySurface14Mat
+    second: {fileID: 2100000, guid: 21ba2a243bcf6d248b30e0ecc05f0f6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface59_menino_polySurface1_polySurface15Mat
+    second: {fileID: 2100000, guid: 744dd37effff7874596de2daaa41b155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface60_menino_polySurface1_polySurface16Mat
+    second: {fileID: 2100000, guid: e8736ad55c746e44294d2002e59daff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface61_menino_polySurface1_polySurface17Mat
+    second: {fileID: 2100000, guid: 1589edb4cfd3fb74ea9da93e7d907ae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface62_menino_polySurface1_polySurface18Mat
+    second: {fileID: 2100000, guid: 99015e48a56702742b96c364dbd06a7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface63_menino_polySurface1_polySurface19Mat
+    second: {fileID: 2100000, guid: 15d75e00804ed764ebd8be430c6f96aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface64_menino_polySurface1_polySurface20Mat
+    second: {fileID: 2100000, guid: c2f08133cf5cdad4bb6b283fcf5ec6eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface65_menino_polySurface1_polySurface21Mat
+    second: {fileID: 2100000, guid: 259f7a6d53cd7274d8e24bfd2048b3c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface66_menino_polySurface1_polySurface22Mat
+    second: {fileID: 2100000, guid: 466d99aba066adc4ebd4c12176611d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface67_menino_polySurface1_polySurface23Mat
+    second: {fileID: 2100000, guid: 34e4ebe2f74b2a0448ab81b9695d789a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface68_menino_polySurface1_polySurface24Mat
+    second: {fileID: 2100000, guid: 6f8c4cef34f87c94a84ccf3d1d01ad98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface69_menino_polySurface1_polySurface25Mat
+    second: {fileID: 2100000, guid: 7832f2959ad5c354295e8c4a700f8cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface70_menino_polySurface1_polySurface26Mat
+    second: {fileID: 2100000, guid: edcc4c3da47c0874a8682a91c15a4db4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface71_menino_polySurface1_polySurface27Mat
+    second: {fileID: 2100000, guid: b6571153fdc8d0745b0f4fc51331a4fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface72_menino_polySurface1_polySurface28Mat
+    second: {fileID: 2100000, guid: 48c846316468e1c48a12fea0f8c8a8b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface73_menino_polySurface1_polySurface29Mat
+    second: {fileID: 2100000, guid: 629e007c87980da439af5c06ef5abc33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface74_menino_polySurface1_polySurface30Mat
+    second: {fileID: 2100000, guid: bd7ddf897e1018546bccadd179507f1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menino_polySurface18_menino_polySurface75_menino_polySurface1_polySurface31Mat
+    second: {fileID: 2100000, guid: d30f87d3a4df2974fbcc8c60ea243c6d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.008
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: menino(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface45_menino:polySurface1_polySurface1
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface46_menino:polySurface1_polySurface2
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface47_menino:polySurface1_polySurface3
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface48_menino:polySurface1_polySurface4
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface49_polySurface5_menino:polySurface1
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface50_menino:polySurface1_polySurface6
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface51_menino:polySurface1_polySurface7
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface52_menino:polySurface1_polySurface8
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface53_menino:polySurface1_polySurface9
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface54_menino:polySurface1_polySurface10
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface55_menino:polySurface1_polySurface11
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface56_menino:polySurface1_polySurface12
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface57_menino:polySurface1_polySurface13
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface58_menino:polySurface1_polySurface14
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface59_menino:polySurface1_polySurface15
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface60_menino:polySurface1_polySurface16
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface61_menino:polySurface1_polySurface17
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface62_menino:polySurface1_polySurface18
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface63_menino:polySurface1_polySurface19
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface64_menino:polySurface1_polySurface20
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface65_menino:polySurface1_polySurface21
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface66_menino:polySurface1_polySurface22
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface67_menino:polySurface1_polySurface23
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface68_menino:polySurface1_polySurface24
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface69_menino:polySurface1_polySurface25
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface70_menino:polySurface1_polySurface26
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface71_menino:polySurface1_polySurface27
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface72_menino:polySurface1_polySurface28
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface73_menino:polySurface1_polySurface29
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface74_menino:polySurface1_polySurface30
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18_menino:polySurface75_menino:polySurface1_polySurface31
+      parentName: menino(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.008
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

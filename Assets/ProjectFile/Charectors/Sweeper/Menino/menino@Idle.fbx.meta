@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: 73c6570d2c1da5f46b07ef226813d7c4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: menino:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: menino:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: menino@Idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:polySurface18
+      parentName: menino@Idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:Hips
+      parentName: menino@Idle(Clone)
+      position: {x: 0.0021484764, y: 0.98713523, z: -0.0049673384}
+      rotation: {x: 7.411541e-18, y: 0.0000000029103835, z: 7.275959e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: menino:LeftUpLeg
+      parentName: menino:Hips
+      position: {x: -0.083954364, y: -0.05427162, z: 0.002773516}
+      rotation: {x: -0.000000002912032, y: 0.002276165, z: 0.99999744, w: -7.2096956e-10}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: menino:LeftLeg
+      parentName: menino:LeftUpLeg
+      position: {x: -0, y: 0.4135946, z: 1.09447465e-10}
+      rotation: {x: -0.017061498, y: -0.0000951322, z: 0.005574307, w: 0.99983895}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1}
+    - name: menino:LeftFoot
+      parentName: menino:LeftLeg
+      position: {x: 1.2176674e-10, y: 0.3510934, z: -1.5080542e-10}
+      rotation: {x: 0.51745313, y: 0.022104396, z: -0.013372722, w: 0.85532147}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000002}
+    - name: menino:LeftToeBase
+      parentName: menino:LeftFoot
+      position: {x: -8.0663004e-10, y: 0.27232492, z: 0.000000004407145}
+      rotation: {x: 0.26035357, y: -0.042423673, z: 0.011451533, w: 0.9645129}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: menino:LeftToe_End
+      parentName: menino:LeftToeBase
+      position: {x: -1.9618885e-11, y: 0.11029768, z: -7.902594e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:RightUpLeg
+      parentName: menino:Hips
+      position: {x: 0.083954364, y: -0.05427162, z: 0.0029763125}
+      rotation: {x: -0.000000014549303, y: 0.0023578804, z: 0.99999726, w: 0.0000000011257024}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: menino:RightLeg
+      parentName: menino:RightUpLeg
+      position: {x: -0, y: 0.41359496, z: 1.14848256e-10}
+      rotation: {x: -0.014234951, y: 0.00007936944, z: -0.005574439, w: 0.9998832}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: menino:RightFoot
+      parentName: menino:RightLeg
+      position: {x: 8.9449434e-11, y: 0.35103893, z: 3.8034134e-10}
+      rotation: {x: 0.5119734, y: -0.022617497, z: 0.01348659, w: 0.85859764}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000002}
+    - name: menino:RightToeBase
+      parentName: menino:RightFoot
+      position: {x: 6.049264e-10, y: 0.2690001, z: 0.0000000013559349}
+      rotation: {x: 0.26371548, y: 0.04284497, z: -0.011725978, w: 0.9635772}
+      scale: {x: 0.9999997, y: 1.0000002, z: 0.9999996}
+    - name: menino:RightToe_End
+      parentName: menino:RightToeBase
+      position: {x: 2.88202e-11, y: 0.11043395, z: -3.108522e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:Spine
+      parentName: menino:Hips
+      position: {x: -0, y: 0.09768898, z: -0.0025315403}
+      rotation: {x: -0.01295388, y: 8.099299e-12, z: -6.252253e-10, w: 0.99991614}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:Spine1
+      parentName: menino:Spine
+      position: {x: -0, y: 0.114008754, z: 3.0419476e-11}
+      rotation: {x: -0.000000014901159, y: -0.000000008757375, z: 8.989365e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:Spine2
+      parentName: menino:Spine1
+      position: {x: -0, y: 0.13029565, z: 5.1901174e-11}
+      rotation: {x: 0.0000000018626449, y: 0.0000000057987855, z: 9.236013e-10, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: menino:Neck
+      parentName: menino:Spine2
+      position: {x: -0, y: 0.1465827, z: 0.0000000049495665}
+      rotation: {x: 0.012953904, y: 0.00000000290307, z: 5.8335187e-10, w: 0.99991614}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: menino:Head
+      parentName: menino:Neck
+      position: {x: -0, y: 0.18812363, z: -0.03043692}
+      rotation: {x: -0.00000001117587, y: -0.000000002910383, z: -0.0000000054569687, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: menino:HeadTop_End
+      parentName: menino:Head
+      position: {x: -0, y: 0.50578076, z: -0.08183135}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:LeftShoulder
+      parentName: menino:Spine2
+      position: {x: -0.038884882, y: 0.12633629, z: -0.000516518}
+      rotation: {x: 0.57161885, y: -0.41354442, z: 0.5776166, w: 0.41059962}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: menino:LeftArm
+      parentName: menino:LeftShoulder
+      position: {x: 9.056208e-11, y: 0.090356156, z: -0.000000003166849}
+      rotation: {x: -0.13665505, y: 0.0008858589, z: -0.0041119447, w: 0.99060977}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: menino:LeftForeArm
+      parentName: menino:LeftArm
+      position: {x: -1.4441122e-10, y: 0.26177222, z: 0.0000000055398894}
+      rotation: {x: -0.043087315, y: 0.00061617786, z: -0.01428446, w: 0.998969}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000001}
+    - name: menino:LeftHand
+      parentName: menino:LeftForeArm
+      position: {x: -5.7502214e-10, y: 0.2829152, z: -0.000000001344851}
+      rotation: {x: -0.0030594463, y: -0.0011908476, z: 0.083190344, w: 0.9965283}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.9999997}
+    - name: menino:LeftHandThumb1
+      parentName: menino:LeftHand
+      position: {x: 0.03764742, y: 0.0291799, z: 0.008986588}
+      rotation: {x: 0.055524196, y: -0.0147412345, z: -0.26376706, w: 0.9628742}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000007}
+    - name: menino:LeftHandThumb2
+      parentName: menino:LeftHandThumb1
+      position: {x: 0.009565732, y: 0.037579454, z: -0.0000000012421096}
+      rotation: {x: -0.0093822135, y: -0.0017308072, z: -0.044528652, w: 0.9989625}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: menino:LeftHandThumb3
+      parentName: menino:LeftHandThumb2
+      position: {x: 0.003903165, y: 0.046648305, z: -0.0000000020459214}
+      rotation: {x: -0.011272532, y: 0.0048258784, z: -0.14745076, w: 0.9889934}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+    - name: menino:LeftHandThumb4
+      parentName: menino:LeftHandThumb3
+      position: {x: -0.013468896, y: 0.047354214, z: 1.7914203e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:LeftHandIndex1
+      parentName: menino:LeftHand
+      position: {x: 0.018724727, y: 0.10471429, z: 0.0021158238}
+      rotation: {x: -0.0146800615, y: 0.002855408, z: -0.010657503, w: 0.99983144}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: menino:LeftHandIndex2
+      parentName: menino:LeftHandIndex1
+      position: {x: 0.00007597157, y: 0.09245321, z: 5.056316e-10}
+      rotation: {x: 0.04051811, y: -0.000033438424, z: -0.00082216016, w: 0.99917847}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: menino:LeftHandIndex3
+      parentName: menino:LeftHandIndex2
+      position: {x: -0.00014118689, y: 0.035255667, z: 8.4565155e-10}
+      rotation: {x: -0.040241413, y: 0.000037061673, z: 0.0010487802, w: 0.9991895}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: menino:LeftHandIndex4
+      parentName: menino:LeftHandIndex3
+      position: {x: 0.000065215274, y: 0.05248762, z: -0.0000000025114553}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:LeftHandMiddle1
+      parentName: menino:LeftHand
+      position: {x: -0.018724725, y: 0.13795207, z: 0.00022486266}
+      rotation: {x: -0.0061462135, y: 0.0007475948, z: -0.013904028, w: 0.9998842}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: menino:LeftHandMiddle2
+      parentName: menino:LeftHandMiddle1
+      position: {x: -0.00003190322, y: 0.031515684, z: 4.707175e-11}
+      rotation: {x: -0.00614647, y: -0.000000014901159, z: 0.0000000062018435, w: 0.99998116}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000004}
+    - name: menino:LeftHandMiddle3
+      parentName: menino:LeftHandMiddle2
+      position: {x: -0.000016363781, y: 0.030793132, z: 0.0000000020771147}
+      rotation: {x: -0.032516032, y: -0.000000018750855, z: -0.00000001458072, w: 0.9994712}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: menino:LeftHandMiddle4
+      parentName: menino:LeftHandMiddle3
+      position: {x: 0.00004826704, y: 0.025057718, z: 4.388802e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:RightShoulder
+      parentName: menino:Spine2
+      position: {x: 0.038884882, y: 0.12633671, z: -0.0005328044}
+      rotation: {x: -0.57157886, y: -0.41350296, z: 0.5776566, w: -0.41064075}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000004}
+    - name: menino:RightArm
+      parentName: menino:RightShoulder
+      position: {x: -9.260637e-11, y: 0.090356156, z: -0.00000000316679}
+      rotation: {x: -0.13663878, y: -0.00094896543, z: 0.0046719904, w: 0.9906095}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000005}
+    - name: menino:RightForeArm
+      parentName: menino:RightArm
+      position: {x: 2.1602603e-10, y: 0.26177466, z: 0.000000005597413}
+      rotation: {x: -0.043117505, y: -0.000578545, z: 0.013403429, w: 0.9989799}
+      scale: {x: 0.99999976, y: 1, z: 0.9999998}
+    - name: menino:RightHand
+      parentName: menino:RightForeArm
+      position: {x: 1.5513536e-10, y: 0.2829115, z: 0.0000000065806183}
+      rotation: {x: 0.027565654, y: -0.0434596, z: -0.039744955, w: -0.9978836}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: menino:RightHandThumb1
+      parentName: menino:RightHand
+      position: {x: -0.02814753, y: 0.03916303, z: 0.0042993203}
+      rotation: {x: 0.044120427, y: 0.009832664, z: 0.2173005, w: 0.97505754}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: menino:RightHandThumb2
+      parentName: menino:RightHandThumb1
+      position: {x: -0.0070833233, y: 0.03808292, z: 5.360675e-10}
+      rotation: {x: 0.015387697, y: -0.00042450422, z: 0.007769855, w: 0.99985135}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+    - name: menino:RightHandThumb3
+      parentName: menino:RightHandThumb2
+      position: {x: -0.004126609, y: 0.04480572, z: -6.3450684e-10}
+      rotation: {x: -0.00046245923, y: -0.00013894784, z: 0.13508324, w: 0.9908341}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: menino:RightHandThumb4
+      parentName: menino:RightHandThumb3
+      position: {x: 0.011209931, y: 0.04404787, z: -9.840576e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:RightHandIndex1
+      parentName: menino:RightHand
+      position: {x: -0.02231339, y: 0.10783162, z: -0.0003018821}
+      rotation: {x: 0.005522791, y: -0.00035585088, z: -0.06429676, w: 0.9979155}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000002}
+    - name: menino:RightHandIndex2
+      parentName: menino:RightHandIndex1
+      position: {x: 0.00005116174, y: 0.05716365, z: 8.5291063e-10}
+      rotation: {x: 0.014162425, y: -0.00000003640889, z: -0.0000000017585078, w: 0.99989974}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000006}
+    - name: menino:RightHandIndex3
+      parentName: menino:RightHandIndex2
+      position: {x: -0.00001201158, y: 0.054211777, z: -0.0000000042090025}
+      rotation: {x: 0.007483744, y: 0.000000031293197, z: 0.0000000034960534, w: 0.999972}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: menino:RightHandIndex4
+      parentName: menino:RightHandIndex3
+      position: {x: -0.00003915001, y: 0.048291553, z: -5.543913e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: menino:RightHandMiddle1
+      parentName: menino:RightHand
+      position: {x: 0.022313386, y: 0.09729165, z: -0.0005778264}
+      rotation: {x: 0.008649067, y: 0.0005553326, z: -0.032134686, w: 0.99944603}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.9999998}
+    - name: menino:RightHandMiddle2
+      parentName: menino:RightHandMiddle1
+      position: {x: 0.000005731576, y: 0.07406648, z: 8.889193e-10}
+      rotation: {x: 0.0120361475, y: -0.000000043939504, z: -0.000000017458431, w: 0.9999276}
+      scale: {x: 1.0000001, y: 1, z: 1.0000005}
+    - name: menino:RightHandMiddle3
+      parentName: menino:RightHandMiddle2
+      position: {x: -0.00004940149, y: 0.05025554, z: -0.0000000035750538}
+      rotation: {x: -0.019721514, y: 0.000000005118348, z: 0.000000021100103, w: 0.99980557}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: menino:RightHandMiddle4
+      parentName: menino:RightHandMiddle3
+      position: {x: 0.000043671527, y: 0.058171295, z: -0.0000000014850501}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
